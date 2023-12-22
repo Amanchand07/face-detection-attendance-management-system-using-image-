@@ -27,5 +27,5 @@ The file in the directory are:
 
 ## Authors
 
-- [Shivansh Dubey](https://github.com/Shvianshdubey280)
-- [Akshat Mishra](https://github.com/harshabhatt001)
+- [Aman Chand]
+- 
